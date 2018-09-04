@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "CryptoCurrency Tracker",
+   "icon": "./src/AppIcon/Bitcoin-icon.png",
+   "version": "1.0.0",
+   "slug": "crypto-currency-app",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.noumansaif.cryptocurrencyapp"
+   },
+   "android": {
+     "package": "com.noumansaif.cryptocurrencyapp"
+   }
+  }
+}
